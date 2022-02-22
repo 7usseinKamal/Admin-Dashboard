@@ -24,3 +24,7 @@ code {
   --mainGray: #333;
   --mainBlue: #0a57df;
 }
+
+.error {
+  color: #f00;
+}
