@@ -1,0 +1,16 @@
+nav .btns-container button {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  transition: 0.3s;
+  height: 100%;
+  padding: 0 5px;
+}
+
+nav .btns-container button:hover {
+  background-color: #000;
+  color: #ccc;
+}
+
+.home {
+  background-color: var(--mainColor);
+}

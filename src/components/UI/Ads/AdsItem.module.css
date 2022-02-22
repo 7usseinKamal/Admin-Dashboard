@@ -1,0 +1,48 @@
+.ads > div {
+  background-color: var(--mainWhite);
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.ads > div img,
+.ads > div video {
+  width: 320px;
+  height: 569.17px;
+}
+
+.ads > div img {
+  object-fit: cover;
+}
+
+.ads > div p {
+  margin-bottom: 0px !important;
+}
+
+.bts-container {
+  height: 50px;
+}
+
+.bts-container button {
+  height: 30px;
+  background-color: var(--secondColor);
+}
+
+.bts-container button:hover {
+  opacity: 0.7;
+}
+
+.bts-container button,
+form button {
+  border: 1px solid #000;
+  border-radius: 3px;
+  width: 100%;
+}
+
+form button {
+  transition: 0.3s;
+}
+
+form button:hover {
+  background-color: var(--mainGray);
+  color: var(--mainWhite);
+}

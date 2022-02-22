@@ -1,0 +1,25 @@
+.signin {
+  background-color: var(--mainGray);
+  height: 100vh;
+}
+
+.signin .container {
+  width: 350px;
+  background-color: var(--mainWhite);
+  border-radius: 3px;
+}
+
+.request {
+  background-color: var(--mainBlue);
+  color: var(--mainWhite);
+  border: 1px solid var(--mainBlue);
+}
+
+.request:hover {
+  background-color: transparent;
+  color: var(--mainBlue);
+}
+
+.signin p {
+  margin-bottom: 0 !important;
+}

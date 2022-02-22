@@ -1,0 +1,23 @@
+.error {
+  background-color: var(--mainColor);
+  height: 100vh;
+}
+
+.error > div {
+  width: 600px;
+  height: 200px;
+  background-color: var(--secondColor);
+}
+
+.error > div h1 {
+  color: rgb(194, 0, 0);
+}
+
+.error > div,
+.error > div button {
+  border-radius: 3px;
+}
+
+.error > div button {
+  border: 1px solid var(--mainGray);
+}
