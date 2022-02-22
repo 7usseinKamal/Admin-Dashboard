@@ -55,7 +55,9 @@ const App = () => {
     layout = (
       <Fragment>
         {error.loading && <LoadingSpinner />}
-        <p>{error.error}</p>
+        <div className="d-flex justify-content-center">
+          <p className="error mt-2 fs-3">{error.error}</p>
+        </div>
       </Fragment>
     );
   } else {
