@@ -10,7 +10,7 @@
 
 ## Instructions
 
-## To run the project
+### To run the project
 
 1. make sure to install npm
 2. go to https://cors-anywhere.herokuapp.com/corsdemo to activate the server
@@ -75,7 +75,7 @@
 
 - [x] Well documented code
 - [x] Clean code design which can be easily human readable
-- [] Writing testing scripts which makes the code can be easily evaluated
+- [ ] Writing testing scripts which makes the code can be easily evaluated
 - [x] Git micro commits to describe coding steps
 
 =========================================================
