@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDTCHzT6AU_6D4X-LSyHiRsEm57lO65nEw",
-  authDomain: "challenge-e2174.firebaseapp.com",
-  projectId: "challenge-e2174",
-  storageBucket: "challenge-e2174.appspot.com",
-  messagingSenderId: "902004172656",
-  appId: "1:902004172656:web:822b05e663d60f111951b5"
+  apiKey: "AIzaSyDbVewNOyAM4bkjGlSOeQR-VrDfJGHN-GE",
+  authDomain: "admin-dashboard-17a22.firebaseapp.com",
+  projectId: "admin-dashboard-17a22",
+  storageBucket: "admin-dashboard-17a22.appspot.com",
+  messagingSenderId: "503961686598",
+  appId: "1:503961686598:web:18bf0c0e9ffeca070ff047"
 };
 
 const app = initializeApp(firebaseConfig);
