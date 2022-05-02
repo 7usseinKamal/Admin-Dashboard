@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDbVewNOyAM4bkjGlSOeQR-VrDfJGHN-GE",
-  authDomain: "admin-dashboard-17a22.firebaseapp.com",
-  projectId: "admin-dashboard-17a22",
-  storageBucket: "admin-dashboard-17a22.appspot.com",
-  messagingSenderId: "503961686598",
-  appId: "1:503961686598:web:18bf0c0e9ffeca070ff047"
+  apiKey: "AIzaSyCA_BiK89uFhgASa_GEtBxJF2idux9hNr0",
+  authDomain: "admin-dashboard-a7122.firebaseapp.com",
+  projectId: "admin-dashboard-a7122",
+  storageBucket: "admin-dashboard-a7122.appspot.com",
+  messagingSenderId: "601035080983",
+  appId: "1:601035080983:web:c5c578cf244c3870c06352"
 };
 
 const app = initializeApp(firebaseConfig);
